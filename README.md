@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![zhaozg's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaozg)
+![zhaozg's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaozg&hide_title=true&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaozg&show_icons=true&layout=compact)
 
 <!--
